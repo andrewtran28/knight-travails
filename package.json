@@ -1,0 +1,13 @@
+{
+  "name": "knights-travail",
+  "version": "1.0.0",
+  "description": "Graph data structure project exercise which shows the shortest possible way for a Chess Knight piece to get from one square to another.",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "module"
+}
